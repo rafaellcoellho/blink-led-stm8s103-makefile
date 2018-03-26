@@ -1,7 +1,3 @@
-# Blink Led STM8s103
-
-Small example of how to flash led on stm8s103.
-
 ## Prerequisites
 
 Let's use the sdcc toolchain for STM8.
